@@ -1,0 +1,14 @@
+{
+  "name": "fast-stats",
+  "version": "0.0.1",
+  "description": "fast.com statistics",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh record.sh"
+  },
+  "author": "paulvollmer",
+  "license": "MIT",
+  "dependencies": {
+    "fast-cli": "^2.2.0"
+  }
+}
