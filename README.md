@@ -1,5 +1,7 @@
 # fast-stats
 
+record the measurement result from fast.com each 15 minutes
+
 ## Usage
 
 ```
